@@ -1,0 +1,23 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: lightblue;
+}
+
+.home1 {
+  background: pink;
+}
+
+#para {
+  color: green;
+  border: 5px solid tomato;
+  border-style: dotted;
+}
+
+.link {
+  color: black;
+  font-size: 30px;
+  font-style: italic;
+}
